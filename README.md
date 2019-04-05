@@ -1,2 +1,2 @@
-<h1>Demo jQuery Toggle Switch</h1>
-http://jsfiddle.net/goniti/nvabw641/5/
+<h1>jQuery Toggle Switch</h1>
+Demo : http://jsfiddle.net/goniti/nvabw641/5/
