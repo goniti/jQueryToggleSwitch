@@ -1,2 +1,2 @@
 <h1>Demo</h1>
-http://www.carlosgonzalezlovullo.fr/toggleSwitch/index.html
+<script async src="//jsfiddle.net/goniti/nvabw641/5/embed/js,html,css/"></script>
