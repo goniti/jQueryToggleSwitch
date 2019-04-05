@@ -1,2 +1,2 @@
 <h1>Demo</h1>
-https://jsfiddle.net/goniti/nk2rc78s/
+http://www.carlosgonzalezlovullo.fr/toggleSwitch/index.html
