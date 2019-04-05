@@ -1,31 +1,24 @@
-// jQuery Toggle switch
+// jQuery Toggle Switch
+
 $(document).ready(function () {
+
+  const a = "active";
   const t = $("#true");
   const f = $("#false");
   const s = $("#switcher");
-  const selected = "active";
 
-  // on Switcher
+  // click on Switch
   s.click(function () {
-    f.toggleClass(selected);
-    t.toggleClass(selected);
-  });
-  // on False
-  f.click(function () {
-    s.prop("checked", true);
-    f.addClass(selected);
-    t.removeClass(selected);
-  });
-  //on True
-  t.click(function () {
-    s.prop("checked", false);
-    t.addClass(selected);
-    f.removeClass(selected);
+    f.toggleClass(a);
+    t.toggleClass(a);
+    foo() //execute foo function if click on switch
   });
 
-  const value = [1, 0];
 
+  // Get value
   function foo() {
+    const value = [1, 0];
+
     if (s.prop("checked")) {
       result = value[1]
     } else {
@@ -34,6 +27,7 @@ $(document).ready(function () {
     const myResult = result;
     $('.output').html(myResult);
   }
-  foo()
+
+  foo() //execute foo function on load
 
 });
