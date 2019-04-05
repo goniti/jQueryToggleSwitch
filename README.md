@@ -1,7 +1,7 @@
-<h1>Demo</h1>
+<h1>jQuery Toggle Switch</h1>
 
-v1.1, Patch note jQuery Toggle Switch :
+v1.1 Patch note  :
 Now with this update,
 you can click on True and False.
 
-http://jsfiddle.net/goniti/ws39fe7p/5/
+Demo : http://jsfiddle.net/goniti/ws39fe7p/5/
