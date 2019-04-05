@@ -1,7 +1,7 @@
 /*Demo */
 .demo {
   background-color: skyblue;
-  height: 20rem;
+  height: 15rem;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -74,17 +74,17 @@
   background-color: teal;
 }
 
-.mod {
+.value {
+  color: white;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
 .output {
-  color: black;
-  font-size: 20px;
+  color: teal;
+  font-size: 25px;
   font-weight: bold;
-  border: solid 1 px black;
   background: white;
   display: flex;
   justify-content: center;
